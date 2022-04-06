@@ -1,0 +1,1 @@
+Collaborative project to build a ML model to predict network faults. After configuration of the system, Wireshark was used to capture network data packets, and the data was extracted and analyzed in Python, using the NumPy, MatPlotLib, and Pandas libraries.
